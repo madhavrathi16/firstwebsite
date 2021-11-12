@@ -40,6 +40,11 @@ nav ul li a{
     color: orangered;
 
 }
+nav ul li a:hover{
+    color: brown;
+    font-style: italic;
+    font-size: larger;}
+
 .micon{
     height: 40px;
     width: 40px;
